@@ -1,26 +1,30 @@
 # Hi there! 👋 I'm Ghazaleh Ansari
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6A0DAD&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;42+School+Student;Systems+Programmer;Frontend+Developer;Game+Developer;Creative+Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6A0DAD&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;42+School+Student;M.Sc.+Mechanical+Engineering;Systems+Programmer;MATLAB+Developer;Graphics+Programmer;Creative+Coder" alt="Typing SVG" />
 </div>
 
 ## 🌟 About Me
 
-I'm a passionate **Software Developer** and **Creative Coder** currently studying at **42 School Berlin** - an innovative coding school! I love bringing ideas to life through code, from low-level C programming to interactive web experiences and games.
+I'm a **Software Developer** and **Creative Coder** with a unique blend of engineering precision and programming artistry! With a **Master's degree in Mechanical Engineering** specializing in **Applied Design**, I bring analytical thinking and problem-solving expertise to software development. Currently advancing through **42 School Berlin** - mastering systems programming through their innovative peer-to-peer methodology.
 
 ```javascript
 const ghazaleh = {
-    currentStatus: '42 School Berlin Student',
-    code: ['C', 'HTML', 'CSS', 'JavaScript'],
+    education: {
+        current: '42 School Berlin Student',
+        degree: 'M.Sc. Mechanical Engineering (Applied Design)'
+    },
+    code: ['C', 'MATLAB', 'HTML', 'CSS', 'JavaScript'],
     technologies: {
-        systems: ['C Programming', 'Unix/Linux', 'Algorithms'],
+        engineering: ['MATLAB', 'Applied Design', 'Mathematical Modeling'],
+        systems: ['C Programming', 'Unix/Linux', 'Algorithms', 'Graphics Programming'],
         frontEnd: ['HTML5', 'CSS3', 'JavaScript', 'Responsive Design'],
         gamesDev: ['JavaScript Games', 'Interactive UI'],
-        tools: ['Git', 'GitHub', 'VS Code', 'Makefile', 'Shell']
+        tools: ['Git', 'GitHub', 'VS Code', 'Makefile', 'Shell', 'MATLAB']
     },
-    currentFocus: 'Mastering systems programming & building engaging web experiences',
+    currentFocus: 'Bridging engineering precision with creative programming',
     learningStyle: 'Peer-to-peer collaboration & project-based learning',
-    funFact: 'I debug C code and create web magic! 🔧✨'
+    funFact: 'From mechanical designs to fractal algorithms! 🔧⚡🎨'
 };
 ```
 
@@ -29,12 +33,21 @@ const ghazaleh = {
 ### 🏫 42 School Projects
 Currently working through the rigorous 42 curriculum, mastering systems programming and computer science fundamentals:
 
+**Core Programming Projects:**
 - **🔧 Libft** - Building my own C standard library from scratch
 - **📖 Get Next Line** - File reading function with dynamic buffer management  
 - **🖨️ ft_printf** - Custom implementation of the printf function
 - **🔄 Born2beroot** - Virtual machine setup and system administration
 - **🧮 Push_swap** - Sorting algorithm optimization challenge
+- **🌀 Fract'ol** - Mathematical fractal visualization using MiniLibX graphics library
+  - Implemented Julia, Mandelbrot, and Burning Ship fractals
+  - Real-time zooming, color schemes, and mouse/keyboard interactions
+  - Complex number mathematics and pixel-perfect rendering
 - **🍽️ Philosophers** - Threading and synchronization with the dining philosophers problem
+- **🐚 Minishell** - Custom Unix shell implementation (team project)
+  - Built-in commands, environment variables, and signal handling
+  - Command parsing, pipe implementation, and process management
+  - Collaborative development with peer programming methodology
 
 *42 School's peer-to-peer learning methodology has strengthened my problem-solving skills, code review abilities, and collaborative programming approach.*
 
@@ -47,14 +60,13 @@ Currently working through the rigorous 42 curriculum, mastering systems programm
 - **[HTML Portfolio](https://github.com/Ghazaleh-ans/html-portfolio)** - Showcasing my web development skills
 - **[HTML Portfolio v2](https://github.com/Ghazaleh-ans/html-portfolio1)** - Enhanced portfolio with modern design
 
-### 📚 Creative Writing
-- **[Story](https://github.com/Ghazaleh-ans/Story)** - My creative masterpiece in digital format
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -77,13 +89,15 @@ Currently working through the rigorous 42 curriculum, mastering systems programm
 
 ## 🎯 What I'm Working On
 
-- 🔭 Advancing through the **42 School curriculum** - currently working on complex systems programming projects
-- 🌱 Deepening my knowledge of **algorithms, data structures, and low-level programming**
+- 🔭 Advancing through the **42 School curriculum** - currently mastering graphics programming and system design
+- 🌱 Deepening my knowledge of **algorithms, data structures, and computer graphics**
+- 🎨 Exploring the intersection of **mathematical modeling, engineering design, and visual programming**
 - 🤝 Collaborating with fellow **42 students** on challenging peer-to-peer projects
-- 💻 Building more **interactive web games** and creative coding projects
-- 👯 Looking to collaborate on **open-source projects** and innovative web applications
-- 💬 Ask me about **C programming, 42 School experience, frontend development, and game programming**
-- ⚡ Fun fact: I love the challenge of **debugging segfaults** as much as creating **beautiful UIs**!
+- 💻 Building more **interactive web games** and **mathematical visualizations**
+- 🔬 Combining my **mechanical engineering background** with software development
+- 👯 Looking to collaborate on **open-source projects**, especially those involving **MATLAB**, **graphics programming**, or **engineering applications**
+- 💬 Ask me about **C programming, 42 School experience, MATLAB, mechanical engineering, fractal mathematics, and game development**
+- ⚡ Fun fact: I can design mechanical systems AND render beautiful fractals! 🔧🌀✨
 
 ## 🌈 Let's Connect!
 
