@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Ghazaleh Ansari
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6A0DAD&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;42+School+Student;M.Sc.+Mechanical+Engineering;Systems+Programmer;MATLAB+Developer;Graphics+Programmer;Creative+Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6A0DAD&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;42+School+Student;M.Sc.+Mechanical+Engineering;Systems+Programmer;MATLAB+Developer;Creative+Coder" alt="Typing SVG" />
 </div>
 
 ## 🌟 About Me
