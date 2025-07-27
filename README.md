@@ -14,7 +14,7 @@ const ghazaleh = {
         current: '42 School Berlin Student',
         degree: 'M.Sc. Mechanical Engineering (Applied Design)'
     },
-    code: ['C', 'MATLAB', 'HTML', 'CSS', 'JavaScript'],
+    code: ['C', 'MATLAB', 'JavaScript'],
     technologies: {
         engineering: ['MATLAB', 'Applied Design', 'Mathematical Modeling'],
         systems: ['C Programming', 'Unix/Linux', 'Algorithms', 'Graphics Programming'],
