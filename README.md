@@ -4,7 +4,7 @@
 
 I'm a software engineering student at **42 Berlin**, transitioning from mechanical engineering to software development. With a Master's degree in Mechanical Engineering from Shiraz University and professional experience as a Mechanical Analysis Engineer, I bring strong analytical and problem-solving skills to the world of software development.
 
-Currently diving deep into **C/C++ systems programming** and exploring **iOS development**, I'm passionate about building efficient, well-structured software and continuously expanding my technical toolkit.
+Currently diving deep into **Python**, **C/C++ systems programming** and exploring **iOS development**, I'm passionate about building efficient, well-structured software and continuously expanding my technical toolkit.
 
 ## 💻 Technical Skills
 
@@ -33,7 +33,7 @@ Currently diving deep into **C/C++ systems programming** and exploring **iOS dev
 
 ## 🎓 42 Berlin Projects
 
-### 🐚 [MiniShell](https://github.com/Ghazaleh-ans/minishell-sadaf)
+### 🐚 [MiniShell](https://github.com/Ghazaleh-ans/sadaf)
 A Unix shell implementation in C, featuring command parsing, environment variables, redirections, pipes, and signal handling.
 
 ### 🤔 [Philosophers](https://github.com/Ghazaleh-ans/Philosophers)
@@ -64,11 +64,11 @@ Recreation of shell pipe behavior, handling process creation, file descriptors, 
 
 ## 🎯 Professional Goals
 
-I'm actively seeking **software engineering internships** and **graduate positions** where I can apply my systems programming knowledge and full-stack development skills. I'm particularly interested in roles involving systems software, backend development, or mobile app development.
+I'm actively seeking **software engineering internships/graduate positions** and **junior positions** where I can apply my software engineering knowledge and learn from skilled engineers. I'm particularly interested in roles involving systems software, backend development, or mobile app development.
 
 ## 📫 Get In Touch
 
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ghazaleh-ansari-1444ba1b8/)
+- 💼 LinkedIn: [Ghazaleh Ansari](https://www.linkedin.com/in/ghazaleh-ansari-1444ba1b8/)
 - 📧 Email: ghazaaleh.ansari@gmail.com
 
 ## 🌱 Fun Facts
