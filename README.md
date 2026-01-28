@@ -33,13 +33,13 @@ Currently diving deep into **C/C++ systems programming** and exploring **iOS dev
 
 ## 🎓 42 Berlin Projects
 
-### 🐚 [MiniShell](link-to-repo)
+### 🐚 [MiniShell](https://github.com/Ghazaleh-ans/minishell-sadaf)
 A Unix shell implementation in C, featuring command parsing, environment variables, redirections, pipes, and signal handling.
 
-### 🤔 [Philosophers](link-to-repo)
+### 🤔 [Philosophers](https://github.com/Ghazaleh-ans/Philosophers)
 Solving the classic dining philosophers problem using multithreading and mutexes to explore concurrency and synchronization.
 
-### 🎮 [Cub3D](link-to-repo)
+### 🎮 [Cub3D](https://github.com/Ghazaleh-ans/cub3D)
 A 3D graphics engine built using raycasting techniques, inspired by Wolfenstein 3D. Implemented in C with real-time rendering.
 
 ### 🌐 [NetPractice](link-to-repo)
@@ -58,9 +58,8 @@ I'm actively seeking **software engineering internships** and **graduate positio
 
 ## 📫 Get In Touch
 
-- 💼 LinkedIn: [Your LinkedIn](your-linkedin-url)
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: [Your Portfolio](your-portfolio-url)
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ghazaleh-ansari-1444ba1b8/)
+- 📧 Email: ghazaaleh.ansari@gmail.com
 
 ## 🌱 Fun Facts
 
