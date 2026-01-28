@@ -42,8 +42,18 @@ Solving the classic dining philosophers problem using multithreading and mutexes
 ### 🎮 [Cub3D](https://github.com/Ghazaleh-ans/cub3D)
 A 3D graphics engine built using raycasting techniques, inspired by Wolfenstein 3D. Implemented in C with real-time rendering.
 
-### 🌐 [NetPractice](link-to-repo)
+### 🌐 [NetPractice](https://github.com/Ghazaleh-ans/Netpractice)
 Comprehensive TCP/IP networking project covering subnet masks, routing tables, and network topology configuration across 10 progressive levels.
+
+### 🔷 [CPP Modules](https://github.com/Ghazaleh-ans/CPP)
+Deep dive into C++ and Object-Oriented Programming through 10 progressive modules covering classes, inheritance, polymorphism, abstract classes, templates, STL containers, iterators, and exception handling.
+
+### 🎨 [Fract-ol](https://github.com/Ghazaleh-ans/fractol)
+Interactive fractal visualization program rendering Mandelbrot and Julia sets [and more sets]with real-time zooming, color schemes, and mouse-based navigation using the MiniLibX graphics library.
+
+### 🔄 [Pipex](https://github.com/Ghazaleh-ans/pipex)
+Recreation of shell pipe behavior, handling process creation, file descriptors, and inter-process communication to execute commands with pipes.
+
 
 ## 📚 Current Focus
 
