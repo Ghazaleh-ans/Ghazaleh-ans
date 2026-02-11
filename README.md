@@ -46,7 +46,7 @@ A 3D graphics engine built using raycasting techniques, inspired by Wolfenstein 
 Comprehensive TCP/IP networking project covering subnet masks, routing tables, and network topology configuration across 10 progressive levels.
 
 ### 🔷 [CPP Modules](https://github.com/Ghazaleh-ans/CPP)
-Deep dive into C++ and Object-Oriented Programming through 10 progressive modules covering classes, inheritance, polymorphism, abstract classes, templates, STL containers, iterators, and exception handling.
+Deep dive into C++ and Object-Oriented Programming through progressive modules covering classes, inheritance, polymorphism, abstract classes, C++ cast operators (static_cast, dynamic_cast, reinterpret_cast, const_cast), templates, STL containers, iterators, and exception handling.
 
 ### 🎨 [Fract-ol](https://github.com/Ghazaleh-ans/fractol)
 Interactive fractal visualization program rendering Mandelbrot and Julia sets [and more sets]with real-time zooming, color schemes, and mouse-based navigation using the MiniLibX graphics library.
