@@ -62,6 +62,7 @@ Recreation of shell pipe behavior, handling process creation, file descriptors, 
 ## 📚 Current Focus
 
 - 🌐 Network & Systems Programming (HTTP servers, sockets, I/O multiplexing)
+- 🚀 Full-Stack Web Development (building a new project)
 - 📱 iOS Development (Swift & UIKit)
 - 🎯 Technical Interview Preparation (Data Structures & Algorithms)
 - 🌟 Open Source Contributions
