@@ -2,16 +2,18 @@
 
 ## 🚀 About Me
 
-I'm a software engineering student at **42 Berlin**, transitioning from mechanical engineering to software development. With a Master's degree in Mechanical Engineering from Shiraz University and professional experience as a Mechanical Analysis Engineer, I bring strong analytical and problem-solving skills to the world of software development.
+I'm a software engineering student at **42 Berlin** with a background in mechanical engineering. I hold a Master's degree in Mechanical Engineering from Shiraz University and worked as a Mechanical Analysis Engineer before moving into software development — a transition driven by my interest in building systems and solving problems through code.
 
-Currently diving deep into **Python**, **C/C++ systems programming** and exploring **iOS development**, I'm passionate about building efficient, well-structured software and continuously expanding my technical toolkit.
+My foundation in engineering brings a rigorous, analytical approach to software: I care about correctness, efficiency, and clean, maintainable design. At 42 Berlin I work primarily in **C/C++ systems programming**, building projects from the ground up — web servers, shells, and concurrent systems — while expanding into **full-stack web development** and **iOS development** with Swift.
+
+I'm motivated by understanding how things work at a low level and by writing software that is both robust and well-structured. I'm an eager learner, always keen to grow my skills and take on new challenges.
 
 ## 💻 Technical Skills
 
 **Languages**
 - C/C++ (Systems Programming)
 - Python
-- JavaScript (Node.js, React)
+- JavaScript / TypeScript (Node.js, React)
 - HTML/CSS
 - Swift (Learning)
 
@@ -20,7 +22,7 @@ Currently diving deep into **Python**, **C/C++ systems programming** and explori
 - Git & Version Control
 - Express.js & PostgreSQL
 - TCP/IP Networking & Socket Programming
-- HTTP/1.1 & Web Servers
+- HTTP/1 & Web Servers
 - Raycasting & 3D Graphics
 - Multithreading & Concurrency
 
@@ -35,7 +37,7 @@ Currently diving deep into **Python**, **C/C++ systems programming** and explori
 ## 🎓 42 Berlin Projects
 
 ### 🌐 [Webserv](https://github.com/Ghazaleh-ans/webserv)
-A non-blocking **HTTP/1.1 web server** written from scratch in C++98, inspired by nginx. Handles concurrent clients through a single-threaded, event-driven architecture using `poll()` for I/O multiplexing across listening sockets, client connections, and CGI pipes. Features nginx-style configuration files (server/location blocks), GET/POST/DELETE methods, chunked transfer decoding, file uploads, autoindex, custom error pages, redirects, MIME detection, and CGI execution (Python/PHP) with timeout handling — all while guarding against path-traversal attacks.
+A non-blocking **HTTP/1 web server** written from scratch in C++98, inspired by nginx. Handles concurrent clients through a single-threaded, event-driven architecture using `poll()` for I/O multiplexing across listening sockets, client connections, and CGI pipes. Features nginx-style configuration files (server/location blocks), GET/POST/DELETE methods, chunked transfer decoding, file uploads, autoindex, custom error pages, redirects, MIME detection, and CGI execution (Python/PHP) with timeout handling — all while guarding against path-traversal attacks.
 
 ### 🐚 [MiniShell](https://github.com/Ghazaleh-ans/sadaf)
 A Unix shell implementation in C, featuring command parsing, environment variables, redirections, pipes, and signal handling.
