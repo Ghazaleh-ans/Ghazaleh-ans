@@ -19,7 +19,8 @@ Currently diving deep into **Python**, **C/C++ systems programming** and explori
 - Unix/Linux Systems
 - Git & Version Control
 - Express.js & PostgreSQL
-- TCP/IP Networking
+- TCP/IP Networking & Socket Programming
+- HTTP/1.1 & Web Servers
 - Raycasting & 3D Graphics
 - Multithreading & Concurrency
 
@@ -33,6 +34,9 @@ Currently diving deep into **Python**, **C/C++ systems programming** and explori
 
 ## 🎓 42 Berlin Projects
 
+### 🌐 [Webserv](https://github.com/Ghazaleh-ans/webserv)
+A non-blocking **HTTP/1.1 web server** written from scratch in C++98, inspired by nginx. Handles concurrent clients through a single-threaded, event-driven architecture using `poll()` for I/O multiplexing across listening sockets, client connections, and CGI pipes. Features nginx-style configuration files (server/location blocks), GET/POST/DELETE methods, chunked transfer decoding, file uploads, autoindex, custom error pages, redirects, MIME detection, and CGI execution (Python/PHP) with timeout handling — all while guarding against path-traversal attacks.
+
 ### 🐚 [MiniShell](https://github.com/Ghazaleh-ans/sadaf)
 A Unix shell implementation in C, featuring command parsing, environment variables, redirections, pipes, and signal handling.
 
@@ -42,14 +46,14 @@ Solving the classic dining philosophers problem using multithreading and mutexes
 ### 🎮 [Cub3D](https://github.com/Ghazaleh-ans/cub3D)
 A 3D graphics engine built using raycasting techniques, inspired by Wolfenstein 3D. Implemented in C with real-time rendering.
 
-### 🌐 [NetPractice](https://github.com/Ghazaleh-ans/Netpractice)
+### 🔌 [NetPractice](https://github.com/Ghazaleh-ans/Netpractice)
 Comprehensive TCP/IP networking project covering subnet masks, routing tables, and network topology configuration across 10 progressive levels.
 
 ### 🔷 [CPP Modules](https://github.com/Ghazaleh-ans/CPP)
 Deep dive into C++ and Object-Oriented Programming through progressive modules covering classes, inheritance, polymorphism, abstract classes, C++ cast operators (static_cast, dynamic_cast, reinterpret_cast, const_cast), templates, STL containers, iterators, and exception handling.
 
 ### 🎨 [Fract-ol](https://github.com/Ghazaleh-ans/fractol)
-Interactive fractal visualization program rendering Mandelbrot and Julia sets [and more sets]with real-time zooming, color schemes, and mouse-based navigation using the MiniLibX graphics library.
+Interactive fractal visualization program rendering Mandelbrot and Julia sets (and more) with real-time zooming, color schemes, and mouse-based navigation using the MiniLibX graphics library.
 
 ### 🔄 [Pipex](https://github.com/Ghazaleh-ans/pipex)
 Recreation of shell pipe behavior, handling process creation, file descriptors, and inter-process communication to execute commands with pipes.
@@ -57,9 +61,9 @@ Recreation of shell pipe behavior, handling process creation, file descriptors, 
 
 ## 📚 Current Focus
 
+- 🌐 Network & Systems Programming (HTTP servers, sockets, I/O multiplexing)
 - 📱 iOS Development (Swift & UIKit)
-- 🔧 Advanced C++ (Inheritance, Polymorphism, Exception Handling)
-- 🎯 Technical Interview Preparation
+- 🎯 Technical Interview Preparation (Data Structures & Algorithms)
 - 🌟 Open Source Contributions
 
 ## 🎯 Professional Goals
