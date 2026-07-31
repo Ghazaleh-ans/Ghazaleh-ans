@@ -1,90 +1,37 @@
-# Hi there, I'm Ghazaleh 👋
+# Ghazaleh Ansari
 
-## 🚀 About Me
+**Full-stack developer** and software engineering student at **42 Berlin**, based in Berlin, Germany.
 
-I'm a software engineering student at **42 Berlin** with a background in mechanical engineering. I hold a Master's degree in Mechanical Engineering from Shiraz University and worked as a Mechanical Analysis Engineer before moving into software development — a transition driven by my interest in building systems and solving problems through code.
+I build web applications end to end — React front ends, Node.js/Express APIs, and PostgreSQL data layers — backed by 400+ hours of full-stack training and a systems programming foundation from 42. Writing an HTTP server from scratch in C++ taught me what happens beneath the framework: how requests are parsed, how connections are multiplexed, and where performance and security actually live. I bring that same depth to the application layer.
 
-My foundation in engineering brings a rigorous, analytical approach to software: I care about correctness, efficiency, and clean, maintainable design. At 42 Berlin I work primarily in **C/C++ systems programming**, building projects from the ground up — web servers, shells, and concurrent systems — while expanding into **full-stack web development** and **iOS development** with Swift.
+Currently open to **software engineering internships, graduate roles, and junior positions** in backend, full-stack, front-end, or mobile development.
 
-I'm motivated by understanding how things work at a low level and by writing software that is both robust and well-structured. I'm an eager learner, always keen to grow my skills and take on new challenges.
+## 🛠️ Skills
 
-## 💻 Technical Skills
+**Front end** &nbsp;JavaScript/TypeScript, React, HTML/CSS
 
-**Languages**
-- C/C++ (Systems Programming)
-- Python
-- JavaScript / TypeScript (Node.js, React)
-- HTML/CSS
-- Swift (Learning)
+**Back end** &nbsp;Node.js, Express.js, PostgreSQL, REST APIs, HTTP, Python
 
-**Technologies & Tools**
-- Unix/Linux Systems
-- Git & Version Control
-- Express.js & PostgreSQL
-- TCP/IP Networking & Socket Programming
-- HTTP/1 & Web Servers
-- Raycasting & 3D Graphics
-- Multithreading & Concurrency
+**Systems** &nbsp;C, C++, Unix/Linux, TCP/IP & socket programming, multithreading
 
-**Core Competencies**
-- Systems Programming
-- Algorithm Design
-- Network Configuration
-- Full-Stack Web Development
-- Object-Oriented Programming
-- Problem Solving & Debugging
+**Tools & practices** &nbsp;Git, algorithm design, object-oriented design, debugging
 
-## 🎓 42 Berlin Projects
+## 📌 Featured Projects
 
-### 🌐 [Webserv](https://github.com/Ghazaleh-ans/webserv)
-A non-blocking **HTTP/1 web server** written from scratch in C++98, inspired by nginx. Handles concurrent clients through a single-threaded, event-driven architecture using `poll()` for I/O multiplexing across listening sockets, client connections, and CGI pipes. Features nginx-style configuration files (server/location blocks), GET/POST/DELETE methods, chunked transfer decoding, file uploads, autoindex, custom error pages, redirects, MIME detection, and CGI execution (Python/PHP) with timeout handling — all while guarding against path-traversal attacks.
+**[Webserv](https://github.com/Ghazaleh-ans/webserv)** — Non-blocking HTTP/1 web server in C++98, inspired by nginx. Single-threaded event loop using `poll()` for sockets, clients, and CGI pipes; nginx-style config, GET/POST/DELETE, chunked encoding, file uploads, CGI with timeouts, and path-traversal protection.
 
-### 🐚 [MiniShell](https://github.com/Ghazaleh-ans/sadaf)
-A Unix shell implementation in C, featuring command parsing, environment variables, redirections, pipes, and signal handling.
+**Full-Stack Web App** *(in progress)* — A full-stack application built with React, Node.js/Express, and PostgreSQL. Repository coming soon.
 
-### 🤔 [Philosophers](https://github.com/Ghazaleh-ans/Philosophers)
-Solving the classic dining philosophers problem using multithreading and mutexes to explore concurrency and synchronization.
+**[MiniShell](https://github.com/Ghazaleh-ans/sadaf)** — Unix shell in C: command parsing, environment variables, redirections, pipes, and signal handling.
 
-### 🎮 [Cub3D](https://github.com/Ghazaleh-ans/cub3D)
-A 3D graphics engine built using raycasting techniques, inspired by Wolfenstein 3D. Implemented in C with real-time rendering.
+**[Philosophers](https://github.com/Ghazaleh-ans/Philosophers)** — Dining philosophers problem solved with threads and mutexes, exploring concurrency and synchronization.
 
-### 🔌 [NetPractice](https://github.com/Ghazaleh-ans/Netpractice)
-Comprehensive TCP/IP networking project covering subnet masks, routing tables, and network topology configuration across 10 progressive levels.
+*More on my [pinned repositories](https://github.com/Ghazaleh-ans?tab=repositories) — including C++ modules, a raycasting 3D engine, fractal rendering, and TCP/IP networking.*
 
-### 🔷 [CPP Modules](https://github.com/Ghazaleh-ans/CPP)
-Deep dive into C++ and Object-Oriented Programming through progressive modules covering classes, inheritance, polymorphism, abstract classes, C++ cast operators (static_cast, dynamic_cast, reinterpret_cast, const_cast), templates, STL containers, iterators, and exception handling.
+## 🎯 Current Focus
 
-### 🎨 [Fract-ol](https://github.com/Ghazaleh-ans/fractol)
-Interactive fractal visualization program rendering Mandelbrot and Julia sets (and more) with real-time zooming, color schemes, and mouse-based navigation using the MiniLibX graphics library.
+Full-stack web development (React, Node.js, PostgreSQL) · REST API design · Data structures and algorithms · iOS development with Swift
 
-### 🔄 [Pipex](https://github.com/Ghazaleh-ans/pipex)
-Recreation of shell pipe behavior, handling process creation, file descriptors, and inter-process communication to execute commands with pipes.
+## 📫 Contact
 
-
-## 📚 Current Focus
-
-- 🌐 Network & Systems Programming (HTTP servers, sockets, I/O multiplexing)
-- 🚀 Full-Stack Web Development (building a new project)
-- 📱 iOS Development (Swift & UIKit)
-- 🎯 Technical Interview Preparation (Data Structures & Algorithms)
-- 🌟 Open Source Contributions
-
-## 🎯 Professional Goals
-
-I'm actively seeking **software engineering internships/graduate positions** and **junior positions** where I can apply my software engineering knowledge and learn from skilled engineers. I'm particularly interested in roles involving systems software, backend development, or mobile app development.
-
-## 📫 Get In Touch
-
-- 💼 LinkedIn: [Ghazaleh Ansari](https://www.linkedin.com/in/ghazaleh-ansari-1444ba1b8/)
-- 📧 Email: ghazaaleh.ansari@gmail.com
-
-## 🌱 Fun Facts
-
-- 🔄 Successfully transitioned from mechanical engineering to software development
-- 🎓 Completed 400+ hours of full-stack development bootcamp
-- 🧮 Strong background in MATLAB and computational methods
-- 🌍 Based in Berlin, Germany
-
----
-
-💡 *"From analyzing mechanical systems to crafting software systems - the journey continues!"*
+[LinkedIn](https://www.linkedin.com/in/ghazaleh-ansari-1444ba1b8/) · [ghazaaleh.ansari@gmail.com](mailto:ghazaaleh.ansari@gmail.com)
