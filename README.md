@@ -8,13 +8,10 @@ Currently open to **software engineering internships, graduate roles, and junior
 
 ## 🛠️ Skills
 
-**Front end** &nbsp;JavaScript/TypeScript, React, HTML/CSS
-
-**Back end** &nbsp;Node.js, Express.js, PostgreSQL, REST APIs, HTTP, Python
-
-**Systems** &nbsp;C, C++, Unix/Linux, TCP/IP & socket programming, multithreading
-
-**Tools & practices** &nbsp;Git, algorithm design, object-oriented design, debugging
+- **Front end** — JavaScript/TypeScript, React, HTML/CSS
+- **Back end** — Node.js, Express.js, PostgreSQL, REST APIs, HTTP, Python
+- **Systems** — C, C++, Unix/Linux, TCP/IP & socket programming, multithreading
+- **Tools & practices** — Git, algorithm design, object-oriented design, debugging
 
 ## 📌 Featured Projects
 
