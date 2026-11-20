@@ -1,34 +1,26 @@
-# Ghazaleh Ansari
+# Hi, I'm Ghazaleh Ansari 👋
 
-**Full-stack developer** and software engineering student at **42 Berlin**, based in Berlin, Germany.
-
-I build web applications end to end — React front ends, Node.js/Express APIs, and PostgreSQL data layers — backed by 400+ hours of full-stack training and a systems programming foundation from 42. Writing an HTTP server from scratch in C++ taught me what happens beneath the framework: how requests are parsed, how connections are multiplexed, and where performance and security actually live. I bring that same depth to the application layer.
-
-Currently open to **software engineering internships, graduate roles, and junior positions** in backend, full-stack, front-end, or mobile development.
+Full-stack developer and software engineering student at **42 Berlin**. I build web applications with TypeScript, React/Next.js, Node.js and PostgreSQL, on a foundation of systems programming in C and C++.
 
 ## 🛠️ Skills
 
-- **Front end** — JavaScript/TypeScript, React, HTML/CSS
-- **Back end** — Node.js, Express.js, PostgreSQL, REST APIs, HTTP, Python
-- **Systems** — C, C++, Unix/Linux, TCP/IP & socket programming, multithreading
-- **Tools & practices** — Git, algorithm design, object-oriented design, debugging
+- 🎨 **Front end:** TypeScript, React, Next.js, Tailwind CSS, accessibility (WCAG), internationalization
+- ⚙️ **Back end:** Node.js, Express, PostgreSQL, Drizzle ORM, REST APIs, OAuth 2.0
+- 🖥️ **Systems:** C, C++, Unix/Linux, socket programming, multithreading
+- 🧰 **Tooling:** Git, Docker, GitHub Actions
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-**[Webserv](https://github.com/Ghazaleh-ans/webserv)** — Non-blocking HTTP/1 web server in C++98, inspired by nginx. Single-threaded event loop using `poll()` for sockets, clients, and CGI pipes; nginx-style config, GET/POST/DELETE, chunked encoding, file uploads, CGI with timeouts, and path-traversal protection.
+💰 **[Poolaki](https://github.com/Ghazaleh-ans/transcendence)**: Personal finance tracker built by a team of four as the 42 Berlin final project (Next.js, Express, PostgreSQL, Docker). As product owner, I set feature priorities and signed off completed work. As a developer, I built features across the stack, including Google OAuth sign-in, transaction search and filtering, the dashboard, the design system, WCAG accessibility work and multilingual support with Persian RTL.
 
-**Full-Stack Web App** *(in progress)* — A full-stack application built with React, Node.js/Express, and PostgreSQL. Repository coming soon.
+🌐 **[Webserv](https://github.com/Ghazaleh-ans/webserv)**: Non-blocking HTTP server in C++98, inspired by nginx, with a `poll()` event loop, CGI, chunked encoding and file uploads.
 
-**[MiniShell](https://github.com/Ghazaleh-ans/sadaf)** — Unix shell in C: command parsing, environment variables, redirections, pipes, and signal handling.
+🐚 **[MiniShell](https://github.com/Ghazaleh-ans/sadaf)**: Unix shell in C with pipes, redirections, environment variables and signal handling.
 
-**[Philosophers](https://github.com/Ghazaleh-ans/Philosophers)** — Dining philosophers problem solved with threads and mutexes, exploring concurrency and synchronization.
+🍝 **[Philosophers](https://github.com/Ghazaleh-ans/Philosophers)**: The dining philosophers problem, solved with threads and mutexes.
 
-*More on my [pinned repositories](https://github.com/Ghazaleh-ans?tab=repositories) — including C++ modules, a raycasting 3D engine, fractal rendering, and TCP/IP networking.*
-
-## 🎯 Current Focus
-
-Full-stack web development (React, Node.js, PostgreSQL) · REST API design · Data structures and algorithms · iOS development with Swift
+📂 More in my [repositories](https://github.com/Ghazaleh-ans?tab=repositories).
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/ghazaleh-ansari-1444ba1b8/) · [ghazaaleh.ansari@gmail.com](mailto:ghazaaleh.ansari@gmail.com)
+Open to internships, graduate and junior roles in full-stack, backend or front-end development. Reach me on [LinkedIn](https://www.linkedin.com/in/ghazaleh-ansari-1444ba1b8/) or at [ghazaaleh.ansari@gmail.com](mailto:ghazaaleh.ansari@gmail.com).
